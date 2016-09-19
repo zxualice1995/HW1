@@ -1,0 +1,13 @@
+What does the rect function do?
+A: The rect function is the command to draw a rectangle.
+
+What does the rectMode function do?
+A: rectMode Function tells the location of the rectangle by specifying the mode of rectangle.
+
+What is a pixel?
+A: A single unit of graph, for instance, the single unit box on the graph is the pixel. 
+
+What is HSB?
+A: Hue - the color type, ranges fomr 0 to 360 by default
+   saturation - The vibrancy of the color, 0 to 100 by default
+   brightness - The, well, brightness of the color, 0 to 100 by default
